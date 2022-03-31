@@ -18,7 +18,7 @@ class functions {
 
   // in progress
   updateEmployeeRole(employeeId, roleId) {
-    return this.connection.promise().query("UPDATE employee SET role_id = ? WHERE id = ?", [roleId, employeeId]);
+    return this.connection.promise().query(`UPDATE employee SET role_id = ? WHERE id = ?`, [roleId, employeeId]);
   }
 
   // in progress
