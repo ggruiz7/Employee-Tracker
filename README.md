@@ -6,6 +6,12 @@
 - In a terminal, log in to mysql, and run "source Database/schema.sql" followed by "source Database/seeds.sql" to create and populate the database (or dont source seeds.sql and populate yourself).
 - Open a new terminal and run node index to begin the application.
 
+## Demonstration:
+
+\*\*\* Video demonstartion shows incomplete parts.
+
+- [Walkthrough](https://watch.screencastify.com/v/57ZZSXP5oglVj5phb979)
+
 ## Features:
 
 \*\*\* Not all features are currently present
@@ -26,9 +32,3 @@
 ## Technologies
 
 - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Demonstration:
-
-\*\*\* Video demonstartion shows incomplete parts.
-
-- [Walkthrough](https://watch.screencastify.com/v/57ZZSXP5oglVj5phb979)
